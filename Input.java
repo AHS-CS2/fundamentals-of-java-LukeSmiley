@@ -1,10 +1,10 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name -
-//Date -
-//Class -
-//Lab  -
+//Name - Luke Smiley
+//Date - 1/22/26
+//Class - Comp Sci 1
+//Lab  - Input Java
 
 import static java.lang.System.*;
 import java.util.Scanner;
@@ -24,20 +24,33 @@ public class Input
 		System.out.print("Enter an integer :: ");
 		intOne = keyboard.nextInt();
 
-
 		System.out.print("Enter an integer :: ");
 		intTwo = keyboard.nextInt();
-
-
+		
 		//add in input for all variables
+		System.out.print("Enter a double :: ");
+		doubleOne = keyboard.nextDouble();
+		System.out.print("Enter a float :: ");
+		floatOne = keyboard.nextFloat();
+		System.out.print("Enter a short :: ");
+		shortOne = keyboard.nextShort();
+		System.out.print("Enter a double :: ");
+		doubleTwo = keyboard.nextDouble();
+		System.out.print("Enter a float :: ");
+		floatTwo = keyboard.nextFloat();
+		System.out.print("Enter a short :: ");
+		shortTwo = keyboard.nextShort();
 
-
-		System.out.println();
 		System.out.println("integer one = " + intOne );
-		System.out.println("integer two = " + intTwo );
+		System.out.println("integer two = " + intTwo + "\n");
 
 		//add in output for all variables
-
+		System.out.println("double one = " + doubleOne );
+		System.out.println("double two = " + doubleTwo + "\n");
+		System.out.println("float one = " + floatOne );
+		System.out.println("float two = " + floatTwo + "\n");
+		System.out.println("short one = " + shortOne );
+		System.out.println("short two = " + shortTwo );
 
 	}
 }

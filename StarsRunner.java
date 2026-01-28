@@ -1,10 +1,10 @@
-//© A+ Computer Science
+//ï¿½ A+ Computer Science
 //www.apluscompsci.com
 
-//Name -
-//Date -
-//Class -
-//Lab  -
+//Name - Luke Smiley
+//Date - 1/23/26
+//Class  Comp Sci 1
+//Lab  - Stars Runner
 
 import static java.lang.System.*;
 

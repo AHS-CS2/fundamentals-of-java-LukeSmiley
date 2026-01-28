@@ -55,18 +55,7 @@ public class Variables
 		System.out.println("*\t other types \t\t*");
 		System.out.println("*\t\t\t\t*");
 		System.out.println("*booleanOne = "+booleanOne+"\t\t*");
-		System.out.println("*stringOne = "+stringOne+"\t\t*");
-		System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\");
-
-
-
-
-
-
-
-
-
-
-
+		System.out.println("*stringOne = "+StringOne+"\t*");
+		System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
 	}
 }

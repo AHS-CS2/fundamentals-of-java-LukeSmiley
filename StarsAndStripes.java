@@ -28,7 +28,7 @@ public class StarsAndStripes
 
    public void printTwoBlankLines()
    {
-      System.out.print("\n\n ");
+      System.out.print("\n\n");
    }
    
    public void printASmallBox()

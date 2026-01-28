@@ -13,7 +13,7 @@ public class StarsRunner
    public static void main(String args[])
    {
       //instantiate a StarsAndStripes object
-      
+      public 
       //call the methods needed to make the patterns on the word document
    }
 }
